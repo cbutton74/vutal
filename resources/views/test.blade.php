@@ -11,6 +11,7 @@
     <body>
 				<p>Test</p>
 				<h1>This is another test</h1>
+				<p>To Push a Test</p>
         <div class="h-screen w-full flex justify-center items-center bg-gray-800">
             @livewire('counter')
         </div>
