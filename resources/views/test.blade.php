@@ -9,7 +9,7 @@
         @livewireStyles
     </head>
     <body>
-
+				<p>Test</p>
         <div class="h-screen w-full flex justify-center items-center bg-gray-800">
             @livewire('counter')
         </div>
